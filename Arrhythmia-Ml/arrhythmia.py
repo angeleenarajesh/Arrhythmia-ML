@@ -1,18 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Mar 17 16:29:14 2026
-
-@author: root1
-"""
-
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Mar 17 15:01:33 2026
-
-@author: root1
-"""
 
 # Step 1: Import libraries
 import os
